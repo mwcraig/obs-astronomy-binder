@@ -1,0 +1,22 @@
+name: ast366
+channels:
+  - astropy
+dependencies:
+- python=3
+- astropy=1.2.1
+- matplotlib
+- ipython
+- jupyter
+- ipywidgets=4*
+- scipy
+- nose
+- mock
+- funcsigs
+- pillow
+- ccdproc
+- scikit-image
+- dask
+- pip:
+  - msumastro==0.9.0
+  - reducer==0.3.0
+
