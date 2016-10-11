@@ -17,6 +17,7 @@ dependencies:
 - ccdproc
 - scikit-image
 - dask
+- wcsaxes
 - astroplan
 - pip:
   - msumastro==0.9.0
