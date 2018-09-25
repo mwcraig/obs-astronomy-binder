@@ -6,7 +6,7 @@ dependencies:
 - python=3.6
 - astropy
 - astroquery
-- matplotlib
+- matplotlib<3
 - ipython
 - jupyter
 - ipywidgets
