@@ -1,4 +1,4 @@
-name: ast366
+name: ast366foo
 channels:
   - astropy
   - conda-forge
@@ -22,4 +22,11 @@ dependencies:
 - astroplan
 - msumastro
 - reducer
+- ginga
+- reproject
+- opencv
+- ipyevents
+- photutils
+- pip:
+  - https://github.com/astropy/astrowidgets/archive/master.zip
 
