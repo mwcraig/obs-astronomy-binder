@@ -27,6 +27,6 @@ dependencies:
 - opencv
 - ipyevents
 - photutils
+- bottleneck
 - pip:
   - https://github.com/astropy/astrowidgets/archive/master.zip
-
