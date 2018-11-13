@@ -29,4 +29,6 @@ dependencies:
 - photutils
 - bottleneck
 - pip:
+  - tqdm
+  - glowing-waffles
   - https://github.com/astropy/astrowidgets/archive/master.zip
