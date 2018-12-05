@@ -28,6 +28,7 @@ dependencies:
 - ipyevents
 - photutils
 - bottleneck
+- bqplot
 - pip:
   - tqdm
   - glowing-waffles
