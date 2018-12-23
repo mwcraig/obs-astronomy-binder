@@ -31,5 +31,5 @@ dependencies:
 - bqplot
 - pip:
   - tqdm
-  - glowing-waffles
-  - https://github.com/astropy/astrowidgets/archive/master.zip
+  - glowing-waffles>=0.0.14
+  - https://github.com/astropy/astrowidgets/archive/fall-2018-obs-astro.zip
